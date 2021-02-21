@@ -60,6 +60,7 @@ cd /swig/Python
 Make
 
 -Instalar atlas-
+
 sudo apt-get install libatlas-base-dev
 
 Para probar una demo del modelo creado
