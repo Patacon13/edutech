@@ -1,5 +1,7 @@
 # Edutech
 
+Interfaz original en Java: https://gitlab.com/Neovasili/edutech
+
 ## Primera versión de detección de voz
 
 Se utilizó el software de Snowboy para la detección de palabras (en principio, la palabra "Dos") grabado desde una Raspberry Pi y compilado en Ubuntu 20.04
